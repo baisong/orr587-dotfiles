@@ -1,0 +1,22 @@
+# Ignore everything except dot-files
+*
+!/.*
+
+# Ignore some dotfiles
+.CFUserTextEncoding
+.DS_Store
+.Xauthority
+.account
+#	.bash_aliases
+.bash_history
+#	.bash_profile
+#       .bashrc
+.gitconfig
+#	.gitignore
+#	.inputrc
+.lesshst
+.mysql_history
+.pearrc
+.viminfo
+.zs
+
